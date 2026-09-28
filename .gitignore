@@ -1,0 +1,55 @@
+# Dependencies
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Build output
+dist/
+build/
+out/
+.next/
+*.egg-info/
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Testing / coverage
+coverage/
+.pytest_cache/
+.nyc_output/
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.tmp
+.cache/
+# Model weights
+saved_models/
+*.pth
+
+# Portable ffmpeg binaries
+ffmpeg_portable/
+
+# Data
+data/raw_videos/
+*.mp4
+*.avi
+*.mov
+*.wav

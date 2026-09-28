@@ -1,0 +1,7 @@
+filename,label
+audio_only_negative_002.mp4,0
+video_only_positive_003.mp4,2
+multimodal_positive_005.mp4,2
+audio_only_negative_004.mp4,0
+multimodal_negative_002.mp4,0
+video_only_neutral_001.mp4,1
